@@ -6,6 +6,7 @@ RemedEve is a web application (named after my mom, Evelyn!) with the intended us
 
 # How we built it
 Lots of love, sleep deprivation, coffee, Awake chocolate, and HTML/CSS.
+Also nugs, hugs, and fixing lots of bugs.
 
 # Challenges we ran into
 While we were able to create functions using the Twilio API that would integrate well within our website, some difficulties were found when trying to run the Twilio API on HTML files. We were capable of making a reminder function that would alert a user about do's and don'ts reminders, but couldn't find a way to link it on the HTML file.
