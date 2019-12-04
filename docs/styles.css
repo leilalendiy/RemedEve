@@ -1,0 +1,76 @@
+body {
+ background-image: url('https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-600689.png');
+ background-color: #cccccc;
+}
+
+h1 {
+  margin-top: 20px;
+  color: white;
+  font-size: 45px;
+  text-align: center;
+  font-family: lato;
+  height: 30px;
+  margin-bottom: 40px;
+}
+
+h4 {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  font-family: lato;
+  height: 20px;
+  margin-bottom: 5px;
+}
+
+/*.list {
+  background-color: #77759c;
+  margin: 0 auto;
+  width: 90%;
+  padding: 10px;
+}*/
+
+form {
+  font-size: 30px;
+  text-align: left;
+  font-family: lato;
+}
+
+input {
+  padding: 10px;
+  margin-top: 55px;
+  margin-left: 55px;
+}
+
+.home {
+  background-color: white;
+  border: gray;
+  color: pink;
+  padding: 7px 7px;
+  float: right;
+  font-family: lato;
+  font-size: 25px;
+  border-radius: 12px;
+  line-height: : 30px;
+  height:40px;
+   position:absolute;
+    transition: .5s ease;
+    top: 4%;
+    left: 10%;
+  }
+
+.button {
+  background-color: #77759C;
+  font-family: lato;
+  border-radius: 8px;
+  border-width: 1px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: large;
+  margin: 4px 2px;
+  margin-top: 25px;
+  margin-left: 55px;
+  cursor: pointer;
+}
